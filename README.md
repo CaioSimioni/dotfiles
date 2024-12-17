@@ -7,6 +7,10 @@ Sheel:      zsh
 AUR:        yay
 Editor:     Neovim
 
+## Aplicativos
+
+Assistir animes:    ani-cli
+
 ## TODO List:
 
 [ ] - Documentar as principais aplicações utilizadas; e
