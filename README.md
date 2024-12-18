@@ -6,23 +6,27 @@ Para mais informações acesse a [Wiki](https://github.com/CaioSimioni/dotfiles/
 
 ## Ambiente:
 
-- OS Linux:     ArchLinux WSL2
-- OS Win:       Windows 11 Pro
-- Sheel:        zsh
-- Zsh Custom:   oh-my-zsh
-- AUR pkgs:     yay
-- Win pkgs:     Scoop
-- Editor:       Neovim
+| Desc     | App |
+| ---      | --- |
+| OS Linux    | ArchLinux WSL2 |
+| OS Win      | Windows 11 Pro |
+| Sheel       | zsh |
+| Zsh Custom  | oh-my-zsh |
+| AUR pkgs    | yay |
+| Win pkgs    | Scoop |
+| Editor      | Neovim |
 
 ## Aplicativos
 
-- Assistir animes:    ani-cli
-- Midia Vídeos:       mpv
+| Desc | App |
+| ---  | --- |
+| Assistir animes   | ani-cli |
+| Midia Vídeos      | mpv |
 
 ## TODO List:
 
-- [ ] - Documentar as principais aplicações utilizadas; e
-- [ ] - Fazer um Script de instalação do sistema.
+- [ ] Documentar as principais aplicações utilizadas; e
+- [ ] Fazer um Script de instalação do sistema.
 
 ## Referências
 
