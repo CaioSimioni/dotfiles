@@ -6,12 +6,13 @@ Para mais informações acesse a [Wiki](https://github.com/CaioSimioni/dotfiles/
 
 ## Ambiente:
 
-- OS Linux:   ArchLinux WSL2
-- OS Win:     Windows 11 Pro
-- Sheel:      zsh
-- AUR pkgs:   yay
-- Win pkgs:   Scoop
-- Editor:     Neovim
+- OS Linux:     ArchLinux WSL2
+- OS Win:       Windows 11 Pro
+- Sheel:        zsh
+- Zsh Custom:   oh-my-zsh
+- AUR pkgs:     yay
+- Win pkgs:     Scoop
+- Editor:       Neovim
 
 ## Aplicativos
 
