@@ -14,7 +14,7 @@ Para mais informações acesse a [Wiki](https://github.com/CaioSimioni/dotfiles/
 | Zsh Custom  | oh-my-zsh |
 | AUR pkgs    | yay |
 | Win pkgs    | Scoop |
-| Editor      | Neovim |
+| Editor      | LunarVim |
 
 ## Aplicativos
 
