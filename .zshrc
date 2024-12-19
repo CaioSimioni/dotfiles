@@ -70,7 +70,9 @@ ZSH_THEME="cdimascio-lambda"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=( 
+  zsh-autosuggestions
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -104,3 +106,11 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias dots="cd ~/Projetos/dotfiles"
+
+alias lvim="/home/caiosimioni/.local/bin/lvim"
+
+# asdf
+. /opt/asdf-vm/asdf.sh
+
+# cargo and rust
+. /home/caiosimioni/.asdf/installs/rust/1.83.0/env
