@@ -18,6 +18,20 @@ Para mais informações acesse a [Wiki](https://github.com/CaioSimioni/dotfiles/
 | Versioning  | Git |
 | Manage Version | Asdf |
 
+## Versões
+
+```zsh
+λ  dotfiles git:(master) asdf list
+nodejs
+ *23.4.0
+php
+ *8.4.2
+python
+ *3.13.1t
+rust
+ *1.83.0
+```
+
 ## Aplicativos
 
 | Desc | App |
