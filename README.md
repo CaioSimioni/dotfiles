@@ -15,6 +15,8 @@ Para mais informações acesse a [Wiki](https://github.com/CaioSimioni/dotfiles/
 | AUR pkgs    | yay |
 | Win pkgs    | Scoop |
 | Editor      | LunarVim |
+| Versioning  | Git |
+| Manage Version | Asdf |
 
 ## Aplicativos
 
