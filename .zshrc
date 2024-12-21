@@ -109,6 +109,8 @@ alias dots="cd ~/Projetos/dotfiles"
 
 alias lvim="/home/caiosimioni/.local/bin/lvim"
 
+alias cdwin="cd /mnt/c/Users/caior/Desktop"
+
 # asdf
 . /opt/asdf-vm/asdf.sh
 
