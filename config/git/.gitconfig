@@ -1,0 +1,5 @@
+[user]
+	name = CaioSimioni
+	email = caiors.contato@gmail.com
+[credential]
+	helper = store --file ~/.git-credentials
